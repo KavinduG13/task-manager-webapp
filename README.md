@@ -111,11 +111,7 @@ tm-backend/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Kavindu G**
+**Kavindu Karunrathna**
 - GitHub: [@KavinduG13](https://github.com/KavinduG13)
