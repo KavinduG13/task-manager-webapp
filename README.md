@@ -105,5 +105,5 @@ tm-backend/
 
 ##  Author
 
-**Kavindu Karunrathna**
+**Kavindu Karunarathna**
 - GitHub: [@KavinduG13](https://github.com/KavinduG13)
